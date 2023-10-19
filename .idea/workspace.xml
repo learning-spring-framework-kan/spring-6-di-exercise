@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcbb2af6-1847-4fb1-ab48-e27a3d3cd0e0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2Wz9s7hzSNBWmLAOhvUXZ2oUQr9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kanwar.spring6diexercise.assignment.services" />
+      <recent name="com.kanwar.spring6diexercise.withSpring.services.i18N" />
+      <recent name="com.kanwar.spring6diexercise.withSpring.services" />
+      <recent name="com.kanwar.spring6diexercise.services" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kanwar.spring6diexercise.assignment.controllers" />
+      <recent name="com.kanwar.spring6diexercise.withSpring.controllers" />
+      <recent name="com.kanwar.spring6diexercise.withoutSpring.controllers" />
+      <recent name="com.kanwar.spring6diexercise.controllers.withoutSpring" />
+      <recent name="com.kanwar.spring6diexercise.controllers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DbSourceControllerTest">
+    <configuration name="Spring6DiExerciseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kanwar.spring6diexercise.Spring6DiExerciseApplication" />
+      <module name="spring-6-di-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kanwar.spring6diexercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbSourceControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-6-di-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kanwar.spring6diexercise.assignment.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kanwar.spring6diexercise.assignment.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.kanwar.spring6diexercise.assignment.controllers.DbSourceControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbSourceControllerTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-6-di-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kanwar.spring6diexercise.assignment.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kanwar.spring6diexercise.assignment.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.kanwar.spring6diexercise.assignment.controllers.DbSourceControllerTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringConstructorInjectedControllerTest.sayHi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-6-di-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kanwar.spring6diexercise.withSpring.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kanwar.spring6diexercise.withSpring.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.kanwar.spring6diexercise.withSpring.controllers.SpringConstructorInjectedControllerTest" />
+      <option name="METHOD_NAME" value="sayHi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringControllerTest.sayHi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-6-di-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kanwar.spring6diexercise.withSpring.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kanwar.spring6diexercise.withSpring.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.kanwar.spring6diexercise.withSpring.controllers.SpringControllerTest" />
+      <option name="METHOD_NAME" value="sayHi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DbSourceControllerTest" />
+        <item itemvalue="Application.Spring6DiExerciseApplication" />
+        <item itemvalue="JUnit.DbSourceControllerTest.name" />
+        <item itemvalue="JUnit.SpringControllerTest.sayHi" />
+        <item itemvalue="JUnit.SpringConstructorInjectedControllerTest.sayHi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcbb2af6-1847-4fb1-ab48-e27a3d3cd0e0" name="Changes" comment="" />
+      <created>1697724744796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697724744796</updated>
+    </task>
+    <servers />
+  </component>
+</project>
